@@ -1,12 +1,8 @@
 {
   "user": [
-    {
-      "public_keys": [
-        "XXXXXXXXXXXXXXXXX",
-        "YYYYYYYYYYYYYYYYY",
-        "ZZZZZZZZZZZZZZZZZ"
-      ]
-    }
+    "XXXXXXXXXXXXXXXXX",
+    "YYYYYYYYYYYYYYYYY",
+    "ZZZZZZZZZZZZZZZZZ"
   ],
   "rules": [
     {
