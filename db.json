@@ -1,11 +1,51 @@
 {
-  "posts": [
+  "user": [
     {
-      "id": 1,
-      "title": "hello"
+      "public_keys": [
+        "XXXXXXXXXXXXXXXXX",
+        "YYYYYYYYYYYYYYYYY",
+        "ZZZZZZZZZZZZZZZZZ"
+      ]
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "rules": [
+    {
+      "id": "1",
+      "asset": "BTC",
+      "threshold": "100",
+      "domiciles": ["EU", "UK"],
+      "time": {
+        "from": "09",
+        "to": "17"
+      },
+      "text": "..."
+    },
+    {
+      "id": "2",
+      "asset": "BTC",
+      "threshold": "1000",
+      "domiciles": ["AT", "CH", "US"],
+      "time": {
+        "from": "09",
+        "to": "17"
+      },
+      "text": "..."
+    },
+    {
+      "id": "3",
+      "asset": "BTC",
+      "threshold": "500",
+      "domiciles": ["ES", "UK"],
+      "time": {
+        "from": "09",
+        "to": "17"
+      },
+      "text": "..."
+    }
+  ],
+  "whitelist": [
+    "XXXXXXXXXXXXXXXXX",
+    "YYYYYYYYYYYYYYYYY",
+    "ZZZZZZZZZZZZZZZZZ"
+  ]
 }
