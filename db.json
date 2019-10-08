@@ -1,8 +1,8 @@
 {
   "user": [
-    "XXXXXXXXXXXXXXXXX",
-    "YYYYYYYYYYYYYYYYY",
-    "ZZZZZZZZZZZZZZZZZ"
+    "userXXXXXXXXXXXXXXXXX",
+    "userYYYYYYYYYYYYYYYYY",
+    "userZZZZZZZZZZZZZZZZZ"
   ],
   "rule": [
     {
@@ -40,8 +40,8 @@
     }
   ],
   "whitelist": [
-    "XXXXXXXXXXXXXXXXX",
-    "YYYYYYYYYYYYYYYYY",
-    "ZZZZZZZZZZZZZZZZZ"
+    "addressXXXXXXXXXXXXXXXXX",
+    "addressYYYYYYYYYYYYYYYYY",
+    "addressZZZZZZZZZZZZZZZZZ"
   ]
 }
